@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 6c8d65f09397d35459b50dd15be64285
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3111863077256978806
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_0"
+  - first:
+      213: -2708796423229569816
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_1"
+  - first:
+      213: 5061942755689408049
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_2"
+  - first:
+      213: 4291414868528980733
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_3"
+  - first:
+      213: 8142796719695039258
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_4"
+  - first:
+      213: 5292959092081156212
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_5"
+  - first:
+      213: 6368532630064534089
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_6"
+  - first:
+      213: -4774227370045325162
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_7"
+  - first:
+      213: -6369399821599228214
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_8"
+  - first:
+      213: 1416095578076297067
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_9"
+  - first:
+      213: 957362466142394342
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_10"
+  - first:
+      213: 7537228645435111413
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_11"
+  - first:
+      213: -4232685813017361218
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_12"
+  - first:
+      213: 685891133271386798
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_13"
+  - first:
+      213: 3256027485005294500
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_14"
+  - first:
+      213: 9004977371522130386
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_15"
+  - first:
+      213: -4952888236819198915
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_16"
+  - first:
+      213: -4517865924233287707
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_17"
+  - first:
+      213: 6002169336316999155
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_18"
+  - first:
+      213: 1461421419563608630
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_19"
+  - first:
+      213: -5875509442850296783
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_20"
+  - first:
+      213: 4939581648288243726
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_21"
+  - first:
+      213: 7467821850427751933
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_22"
+  - first:
+      213: 4465147749564381491
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_23"
+  - first:
+      213: 2143643237997711077
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_24"
+  - first:
+      213: 1436747945219777604
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_25"
+  - first:
+      213: -2840469094083184112
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_26"
+  - first:
+      213: 5478349912128633610
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_27"
+  - first:
+      213: -8079944896530147703
+    second: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_28"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_0"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1496
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6716e8d3bfe8f2b20800000000000000
+      internalID: 3111863077256978806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_1"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1294
+        width: 291
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e48d80410c686ad0800000000000000
+      internalID: -2708796423229569816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_2"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1288
+        width: 251
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136aa32fd12af3640800000000000000
+      internalID: 5061942755689408049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_3"
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1572
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2ef76061b2e8b30800000000000000
+      internalID: 4291414868528980733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_4"
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1313
+        width: 150
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b83a36976010170800000000000000
+      internalID: 8142796719695039258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_5"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1192
+        width: 168
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470eb2e304e547940800000000000000
+      internalID: 5292959092081156212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_6"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1255
+        width: 120
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9421b736fa2916850800000000000000
+      internalID: 6368532630064534089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_7"
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1289
+        width: 194
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690408b70898ebdb0800000000000000
+      internalID: -4774227370045325162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_8"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 985
+        width: 364
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace3429db985b97a0800000000000000
+      internalID: -6369399821599228214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_9"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 977
+        width: 299
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b673d3bec6bf6a310800000000000000
+      internalID: 1416095578076297067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_10"
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 980
+        width: 296
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e795b3371c394d00800000000000000
+      internalID: 957362466142394342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_11"
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 987
+        width: 236
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7fe02e48d999860800000000000000
+      internalID: 7537228645435111413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_12"
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 945
+        width: 247
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4c345cdaa7245c0800000000000000
+      internalID: -4232685813017361218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_13"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 635
+        width: 291
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa2b390a56c48900800000000000000
+      internalID: 685891133271386798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_14"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 642
+        width: 193
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab26a61fbbbf2d20800000000000000
+      internalID: 3256027485005294500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_15"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 612
+        width: 350
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e100853b18fc70800000000000000
+      internalID: 9004977371522130386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_16"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 622
+        width: 245
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4e20e36ec34bb0800000000000000
+      internalID: -4952888236819198915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_17"
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 625
+        width: 327
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7ab3be0e05d41c0800000000000000
+      internalID: -4517865924233287707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_18"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 327
+        width: 252
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5bae4e53dfb4350800000000000000
+      internalID: 6002169336316999155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_19"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 501
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a6c34c903084410800000000000000
+      internalID: 1461421419563608630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_20"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 330
+        width: 293
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c6470aa4ff57ea0800000000000000
+      internalID: -5875509442850296783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_21"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 345
+        width: 318
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00624d865bec8440800000000000000
+      internalID: 4939581648288243726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_22"
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 302
+        width: 177
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd75a0286803a760800000000000000
+      internalID: 7467821850427751933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_23"
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 346
+        width: 289
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3397b6a883467fd30800000000000000
+      internalID: 4465147749564381491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_24"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 13
+        width: 220
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee850eda20cfbd10800000000000000
+      internalID: 2143643237997711077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_25"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 13
+        width: 317
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e89ad4aa50f310800000000000000
+      internalID: 1436747945219777604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_26"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 201
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a32bb8860a498d0800000000000000
+      internalID: -2840469094083184112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_27"
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 17
+        width: 297
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b38b33832070c40800000000000000
+      internalID: 5478349912128633610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon illustration of a set_10408191_28"
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 0
+        width: 252
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986179d0de44edf80800000000000000
+      internalID: -8079944896530147703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_0": 3111863077256978806
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_1": -2708796423229569816
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_10": 957362466142394342
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_11": 7537228645435111413
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_12": -4232685813017361218
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_13": 685891133271386798
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_14": 3256027485005294500
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_15": 9004977371522130386
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_16": -4952888236819198915
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_17": -4517865924233287707
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_18": 6002169336316999155
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_19": 1461421419563608630
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_2": 5061942755689408049
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_20": -5875509442850296783
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_21": 4939581648288243726
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_22": 7467821850427751933
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_23": 4465147749564381491
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_24": 2143643237997711077
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_25": 1436747945219777604
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_26": -2840469094083184112
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_27": 5478349912128633610
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_28": -8079944896530147703
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_3": 4291414868528980733
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_4": 8142796719695039258
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_5": 5292959092081156212
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_6": 6368532630064534089
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_7": -4774227370045325162
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_8": -6369399821599228214
+      "\u2014Pngtree\u2014cartoon illustration of a set_10408191_9": 1416095578076297067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
